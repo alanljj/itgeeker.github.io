@@ -6,38 +6,38 @@
 
 ## 📚 最新文章
 
-1. **HarmonyOS 4.2.0版本安装Google GMS第一步找不到"从内部恢复"选项的解决办法一 外部存储恢复法** (2024-07-23)
+1. **[HarmonyOS 4.2.0版本安装Google GMS第一步找不到"从内部恢复"选项的解决办法一 外部存储恢复法](https://www.itgeeker.net/harmonyos-4-2-0-install-gms-cannot-find-recovery-from-internal/)** (2024-07-23)
    - 分类: android, Google, 鸿蒙系统HarmonyOS, Google GMS安装
 
-2. **群晖（Synology）NAS DS418 Play升级到DSM7.2后应用商店无法采用SPK安装Docker的解决方案 群晖NAS命令行(CMD)安装Docker** (2024-06-14)
+2. **[群晖（Synology）NAS DS418 Play升级到DSM7.2后应用商店无法采用SPK安装Docker的解决方案 群晖NAS命令行(CMD)安装Docker](https://www.itgeeker.net/synologynas-ds418-play-dsm7-2-install-docker-via-cmd/)** (2024-06-14)
    - 分类: docker, NAS, DS418 Play, 群晖Synology
    - 评论: 2
 
-3. **Esxi 8使用Photon OS OVA一分钟快速搭建Docker容器运行环境 从此一个虚拟机只运行一个Docker实例** (2024-04-11)
+3. **[Esxi 8使用Photon OS OVA一分钟快速搭建Docker容器运行环境 从此一个虚拟机只运行一个Docker实例](https://www.itgeeker.net/one-minute-build-esxi-8-photon-ova-vm-to-run-docker-one-vm-run-one-docker/)** (2024-04-11)
    - 分类: docker, ESXi, Docker, ESXi 8.0, Photon, 虚拟机
    - 评论: 1
 
-4. **Intel® X550-AT2万兆网卡在ESXI 8无法协商2.5G速度 开启SR-IOV后居然就可以了** (2024-04-05)
+4. **[Intel® X550-AT2万兆网卡在ESXI 8无法协商2.5G速度 开启SR-IOV后居然就可以了](https://www.itgeeker.net/intel-x550-at2-on-esxi-8-speed-not-work-on-2-5g-but-worked-after-enable-sr-iov-fun/)** (2024-04-05)
    - 分类: ESXi, 硬件故障, 10G网卡自动协商速度, 2.5G网速
 
-5. **Esxi 8 虚拟机Ubuntu apt安装Jellyfin如何开启Nvidia硬解码 非Docker方式的安装过程** (2024-03-17)
+5. **[Esxi 8 虚拟机Ubuntu apt安装Jellyfin如何开启Nvidia硬解码 非Docker方式的安装过程](https://www.itgeeker.net/esxi-8-vm-ubuntu-apt-install-jellyfin-how-to-install-nvidia-to-use-hardware-decode/)** (2024-03-17)
    - 分类: ESXi, Linux, CUDA Toolkit, Jellyfin, Nvidia硬解码
 
-6. **软路由主机使用Esxi 8安装OpenWRT做家庭主路由 替代原先的Linksys WRT32X 使用pihole做DNS解析并清洗广告** (2024-01-25)
+6. **[软路由主机使用Esxi 8安装OpenWRT做家庭主路由 替代原先的Linksys WRT32X 使用pihole做DNS解析并清洗广告](https://www.itgeeker.net/esxi-8-install-openwrt-with-openclash-use-pihole-as-dns-server-block-ads/)** (2024-01-25)
    - 分类: ESXi, OpenWRT, Proxy, pihole, 主路由
 
-7. **英特尔N5100作为All In One软路由够不够实力 谈谈使用倍控G31灰色风扇款N5100小主机的使用情况** (2024-01-09)
+7. **[英特尔N5100作为All In One软路由够不够实力 谈谈使用倍控G31灰色风扇款N5100小主机的使用情况](https://www.itgeeker.net/user-experience-of-intel-n5100-cpu-computer-as-all-in-one-platform/)** (2024-01-09)
    - 分类: ESXi, OpenWRT, All In One小主机, N5100 CPU, Pi-hole
    - 评论: 1
 
-8. **华为Mate60 Pro HarmonyOS 4最新版成功安装GMS 如何禁止Google Play提示此设备未获得Play保护机制认证提醒** (2023-12-10)
+8. **[华为Mate60 Pro HarmonyOS 4最新版成功安装GMS 如何禁止Google Play提示此设备未获得Play保护机制认证提醒](https://www.itgeeker.net/huawei-mate60-pro-harmonyos-4-latest-successfuly-install-gms-how-to-stop-notificatiion-from-google-play/)** (2023-12-10)
    - 分类: android, Google, 鸿蒙系统HarmonyOS, GMS, Google Play安装
    - 评论: 16
 
-9. **Google Chrome清除指定网站的所有缓存 浏览记录、Cookie、缓存及其他数据** (2023-09-04)
+9. **[Google Chrome清除指定网站的所有缓存 浏览记录、Cookie、缓存及其他数据](https://www.itgeeker.net/google-chrome-clear-specific-website-cache-and-cookie/)** (2023-09-04)
    - 分类: Google, Hack, Odoo, WordPress, JavaScript
 
-10. **如何将Xshell的会话导入到WindTerm** (2023-08-31)
+10. **[如何将Xshell的会话导入到WindTerm](https://www.itgeeker.net/how-to-import-xshell-session-to-windterm-via-putty/)** (2023-08-31)
     - 分类: Linux, 技术奇客, Putty, ssh, SSH客户端, WindTerm, Xshell
 
 ## 🎯 关于本博客
