@@ -40,6 +40,40 @@
 10. **[如何将Xshell的会话导入到WindTerm](https://www.itgeeker.net/how-to-import-xshell-session-to-windterm-via-putty/)** (2023-08-31)
     - 分类: Linux, 技术奇客, Putty, ssh, SSH客户端, WindTerm, Xshell
 
+## 🎯 关键话题
+
+探索以下热门话题，了解更多技术文章：
+
+### 虚拟化与容器
+- [🔗 ESXi](https://www.itgeeker.net/tag/esxi/) - 企业级虚拟化平台
+- [🔗 Docker](https://www.itgeeker.net/tag/docker/) - 容器化部署解决方案
+- [🔗 虚拟机](https://www.itgeeker.net/tag/虚拟机/) - 虚拟机管理和配置
+
+### 网络与路由
+- [🔗 OpenWRT](https://www.itgeeker.net/tag/openwrt/) - 开源路由系统
+- [🔗 主路由](https://www.itgeeker.net/tag/主路由/) - 家庭网络架构
+- [🔗 Pi-hole](https://www.itgeeker.net/tag/pi-hole/) - DNS 广告过滤
+
+### 移动操作系统
+- [🔗 HarmonyOS](https://www.itgeeker.net/tag/harmonyos/) - 华为鸿蒙系统
+- [🔗 Android](https://www.itgeeker.net/tag/android/) - 安卓系统技巧
+- [🔗 GMS](https://www.itgeeker.net/tag/gms/) - Google 移动服务
+
+### NAS 与存储
+- [🔗 NAS](https://www.itgeeker.net/tag/nas/) - 网络附属存储
+- [🔗 群晖Synology](https://www.itgeeker.net/tag/群晖synology/) - 群晖 NAS 系统
+- [🔗 DS418 Play](https://www.itgeeker.net/tag/ds418-play/) - 特定 NAS 型号
+
+### 开发工具
+- [🔗 Linux](https://www.itgeeker.net/tag/linux/) - Linux 系统教程
+- [🔗 SSH](https://www.itgeeker.net/tag/ssh/) - 远程连接工具
+- [🔗 JavaScript](https://www.itgeeker.net/tag/javascript/) - Web 开发
+
+### 多媒体与硬件
+- [🔗 Jellyfin](https://www.itgeeker.net/tag/jellyfin/) - 开源媒体服务器
+- [🔗 Nvidia硬解码](https://www.itgeeker.net/tag/nvidia硬解码/) - 显卡加速
+- [🔗 硬件故障](https://www.itgeeker.net/tag/硬件故障/) - 硬件问题排查
+
 ## 🎯 关于本博客
 
 - 📖 专注分享原创技术文章
